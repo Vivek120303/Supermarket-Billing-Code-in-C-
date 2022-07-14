@@ -1,0 +1,2 @@
+# Supermarket-Billing-Code-in-C-
+This is a Supermarket Billing System project which I have tried in C++. It contains an Administrator as well as a Buyer option. Yes, this is a common project but yes doing a small project leads us to big project ideas and broadens our minds. Hope you all will like this. Please give some suggestions for new projects OR if you are working on a project(team) please consider me for the same. 
