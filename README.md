@@ -1,5 +1,24 @@
 //This my code, hope you have understand, if any queries post it in the comments.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
